@@ -1,20 +1,17 @@
-.. sample documentation master file, created by
-   sphinx-quickstart on Thu Feb 13 19:47:23 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+====================================================================================================
+Windows 上で Sphinx と Read the docs の練習
+====================================================================================================
+Windows 上で Sphinx と Read the docs の練習をするための文書です。
 
-Welcome to sample's documentation!
-==================================
+練習環境
+====================================================================================================
+- Windows 10(1909)
+- Sphinx 2.4.1
+- Python 3.7.3
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   ./title
+   
